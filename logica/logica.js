@@ -28,6 +28,19 @@ module.exports = class Logica {
       })
   } // ()
 
+  async getDatosContenedoresValencia() {
+
+    var textoSQL = "select * from ContenedoresValencia";
+
+    var valoresParaSQL = {}
+    return new Promise((resolver, rechazar) => {
+      this.laConexion.all(textoSQL, valoresParaSQL,
+        (err, res) => {
+          (err ? rechazar(err) : resolver(res))
+        })
+    })
+  }
+
   // .................................................................
   // cerrar() -->
   // .................................................................
