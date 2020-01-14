@@ -1,53 +1,87 @@
+/* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+* insertarContenedoresValencia.js
+* AppContainer: Rosa y Santi
+* 
+* IMPORTANTE: No volver a ejecutar este script ya que volverá a cargar
+* todos los contenedores en la base de datos (la conexión a la BBDD
+* está comentada por si acaso somos tontos)
+*
+* © Copyright: 
+* Creación: 14/01/2020
+* * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * */
+
 const sqlite3 = require("sqlite3")
 const bodyParser = require('body-parser')
 const fs = require('fs')
 
+// abrir base de datos
+/*let db = new sqlite3.Database("../bd/datos.db", (err) => {
+    if (err) {
+        return console.error(err.message);
+    }
+    console.log('Conectado a datos.db ');
+});
+*/
 //Leer el archivo json
-fs.readFile('JsonContenedores/valencia.json', (err, data) => {
+fs.readFile('jsonContenedores/valencia.json', (err, data) => {
     if (err) throw err;
     let datos = JSON.parse(data)
     //Tipo de contenedor
     console.log("Tipo de contenedor: " + datos.features[0].properties.tipo_resid);
 
     //Localizacion Contenedor
-    //UTM X
-    console.log("UTMX: " + datos.features[0].geometry.coordinates[0]);
-    //UMT Y
-    console.log("UMTY: " + datos.features[0].geometry.coordinates[1]);
-});
+    //Longitud
+    console.log("Longitud: " + datos.features[0].geometry.coordinates[0]);
+    //Latitud
+    console.log("Latitud: " + datos.features[0].geometry.coordinates[1]);
 
-/*
-// abrir base de datos
-let db = new sqlite3.Database("../../bd/datos.db", (err) => {
-    if (err) {
-        return console.error(err.message);
-    }
-    console.log('Conectado a datos.db ');
-});
+    var array = datos.features;
+    console.log("------ Añadir contenedores a la bd --------");
+    array.forEach(element => {
+        var tipoContenedor = element.properties.tipo_resid;
+        var idTipo;
+        switch (tipoContenedor) {
+            case "Residuos Urbanos":
+                idTipo = 5;
+                break;
+            case "Envases Ligeros":
+                idTipo = 1;
+                break;
+            case "Organico":
+                idTipo = 3;
+                break;
+            case "Papel \/ Carton":
+                idTipo = 2;
+                break;
+            case "VIDRIO":
+                idTipo = 4;
+                break;
+            case "Residuos Urbanos":
+                idTipo = 5;
+                break;
+        }
+        var longitud = element.geometry.coordinates[0];
+        var latitud = element.geometry.coordinates[1];
+        var ciudad = "Valencia";
+        var horario = null;
 
-db.run(textoSQL);
-
-console.log("------ Añadir contenedores a la bd --------");
-
-var textoSQL = 'insert into Contenedores values( $IdTipoContenedor, $Ciudad, $Latitud, $Longitud, $Horario);'
-
-for (var longitud = -0.5; longitud <= 0.5; longitud = longitud + 0.1) {
-    
+        var textoSQL = 'insert into Contenedores values( $Id, $IdTipoContenedor, $Ciudad, $Latitud, $Longitud, $Horario);'
         var valoresParaSQL = {
-            $IdTipoContenedor: medida,
-            $Ciudad: 1,
+            $Id: null,
+            $IdTipoContenedor: idTipo,
+            $Ciudad: ciudad,
             $Latitud: latitud,
             $Longitud: longitud,
-            $Horario: 1,
+            $Horario: horario,
         }
-    
-    db.run(textoSQL, valoresParaSQL);
-}
+        db.run(textoSQL, valoresParaSQL);
+    });
 
-// cerra la conexión con la base de datos
-db.close((err) => {
-    if (err) {
-        return console.error(err.message);
-    }
-    console.log('Cerrando la conexión a la bd');
-});*/
+    // cerra la conexión con la base de datos
+    db.close((err) => {
+        if (err) {
+            return console.error(err.message);
+        }
+        console.log('Cerrando la conexión a la bd');
+    });
+});
