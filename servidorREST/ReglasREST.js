@@ -20,10 +20,12 @@ module.exports.cargar = function(servidorExpress, laLogica) {
   // .......................................................
   // GET /prueba
   // .......................................................
-  servidorExpress.get('/obtenerContenedoresValencia',async function(peticion, respuesta) {
+  servidorExpress.get('/obtenerContenedoresValencia/:distancia&:latitud&:longitud', async function(peticion, respuesta) {
     console.log(" * GET /obtenerContenedoresValencia ")
 
-    var res = await laLogica.getDatosContenedoresValencia();
+    var datos = {distancia: peticion.params.distancia, latitud: peticion.params.latitud, longitud: peticion.params.longitud}
+
+    var res = await laLogica.getDatosContenedoresValencia(datos);
 
     respuesta.send(res);
   }) // get /obtenerContenedoresValencia
