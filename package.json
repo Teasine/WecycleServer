@@ -1,11 +1,13 @@
 {
   "name": "servidor",
+  "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "mainServidorREST.js",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
+    "minipass": "^2.7.0",
     "sqlite": "^3.0.3",
     "sqlite3": "^4.1.1"
   },
