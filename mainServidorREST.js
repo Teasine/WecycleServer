@@ -9,7 +9,7 @@
 // .....................................................................
 const express = require( 'express' )
 const bodyParser = require( 'body-parser' )
-const Logica = require( "../logica/Logica.js" )
+const Logica = require( "./Logica.js" )
 const cors = require('cors');
 const puerto = process.env.PORT || 8080;
 
@@ -33,7 +33,7 @@ function cargarLogica( fichero ) {
 // .....................................................................
 async function main() {
 
-  var laLogica = await cargarLogica( "../bd/datos.db" );
+  var laLogica = await cargarLogica( "./bd/datos.db" );
 
   // creo el servidor
   var servidorExpress = express();
