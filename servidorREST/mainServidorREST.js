@@ -11,6 +11,7 @@ const express = require( 'express' )
 const bodyParser = require( 'body-parser' )
 const Logica = require( "../logica/Logica.js" )
 const cors = require('cors');
+const puerto = process.env.PORT || 8080;
 
 // .....................................................................
 // .....................................................................
@@ -50,7 +51,7 @@ async function main() {
   reglas.cargar( servidorExpress, laLogica );
 
   // arranco el servidor
-  var servicio = servidorExpress.listen( 8080, function() {
+  var servicio = servidorExpress.listen( puerto, function() {
     console.log( "servidor REST escuchando en el puerto 8080 ");
   })
 
