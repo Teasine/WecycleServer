@@ -1,0 +1,1945 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "00-DEPENDENCIAS MUNICIPALES",
+                "direccion": "C/. AMADEU DE SAVOIA, 11, 11",
+                "centro": "AYUNTAMIENTO DE VALENCIA-TABACALERA (Entrada Principal)",
+                "n_distrito": "6",
+                "n_barrio": "061",
+                "aceite": "1",
+                "codigo": "DM05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36117174,
+                    39.47364911
+                ]
+            },
+            "id": "RES_ACEITE.0"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "00-DEPENDENCIAS MUNICIPALES",
+                "direccion": "C/. AMADEU DE SAVOIA, 11",
+                "centro": "AYUNTAMIENTO DE VALENCIA-TABACALERA (Entrada Registro)",
+                "n_distrito": "6",
+                "n_barrio": "061",
+                "aceite": "1",
+                "codigo": "DM06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36230964,
+                    39.47403071
+                ]
+            },
+            "id": "RES_ACEITE.1"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "00-DEPENDENCIAS MUNICIPALES",
+                "direccion": "C/. LLEONS, 9, 9",
+                "centro": "CM EMPLEO Y FORMACION",
+                "n_distrito": "12",
+                "n_barrio": "121",
+                "aceite": "1",
+                "codigo": "DM07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34860578,
+                    39.46546666
+                ]
+            },
+            "id": "RES_ACEITE.2"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "00-DEPENDENCIAS MUNICIPALES",
+                "direccion": "AV. BALEARS, 36, 36",
+                "centro": "CONSERVATORIO MUNICIPAL DE MUSICA JOSE ITURBI",
+                "n_distrito": "12",
+                "n_barrio": "125",
+                "aceite": "1",
+                "codigo": "DM08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35200735,
+                    39.46112152
+                ]
+            },
+            "id": "RES_ACEITE.3"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "00-DEPENDENCIAS MUNICIPALES",
+                "direccion": "CAMI. BORBOT� A MASSARROJOS",
+                "centro": "ESCUELA MUNICIPAL DE PELOTA VALENCIANA",
+                "n_distrito": "17",
+                "n_barrio": "177",
+                "aceite": "1",
+                "codigo": "DM11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38986124,
+                    39.51868046
+                ]
+            },
+            "id": "RES_ACEITE.4"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "PL. MERCAT, 6",
+                "centro": "MERCADO CENTRAL",
+                "n_distrito": "1",
+                "n_barrio": "015",
+                "aceite": "2",
+                "codigo": "ME01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37845797,
+                    39.47375763
+                ]
+            },
+            "id": "RES_ACEITE.5"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "Entrada per PL. BAR� DE CORTES",
+                "centro": "MERCADO DE RUZAFA",
+                "n_distrito": "2",
+                "n_barrio": "021",
+                "aceite": "1",
+                "codigo": "ME02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37165924,
+                    39.46186461
+                ]
+            },
+            "id": "RES_ACEITE.6"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "C/. BOT�NIC",
+                "centro": "MERCADO ROJAS CLEMENTE",
+                "n_distrito": "3",
+                "n_barrio": "031",
+                "aceite": "1",
+                "codigo": "ME03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38525852,
+                    39.47299307
+                ]
+            },
+            "id": "RES_ACEITE.7"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "C/. MATEM�TIC MARZAL",
+                "centro": "MERCADO CONVENTO JERUSALEN",
+                "n_distrito": "3",
+                "n_barrio": "032",
+                "aceite": "1",
+                "codigo": "ME04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38054019,
+                    39.46663739
+                ]
+            },
+            "id": "RES_ACEITE.8"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "C/. JOSEP MAESTRE, 13",
+                "centro": "MERCADO DE CASTILLA",
+                "n_distrito": "7",
+                "n_barrio": "073",
+                "aceite": "1",
+                "codigo": "ME05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40335806,
+                    39.46543877
+                ]
+            },
+            "id": "RES_ACEITE.9"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "PL. SANTIAGO SU�REZ (SANTI)",
+                "centro": "MERCADO VALVANERA",
+                "n_distrito": "9",
+                "n_barrio": "093",
+                "aceite": "1",
+                "codigo": "ME06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38754815,
+                    39.45235027
+                ]
+            },
+            "id": "RES_ACEITE.10"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "PL. SANT FELIP NERI",
+                "centro": "MERCADO ALGIROS",
+                "n_distrito": "12",
+                "n_barrio": "122",
+                "aceite": "1",
+                "codigo": "ME07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35347937,
+                    39.47000855
+                ]
+            },
+            "id": "RES_ACEITE.11"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "C/. SANT DOM�NEC SAVIO",
+                "centro": "MERCADO TORREFIEL",
+                "n_distrito": "15",
+                "n_barrio": "152",
+                "aceite": "1",
+                "codigo": "ME08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37577088,
+                    39.49751157
+                ]
+            },
+            "id": "RES_ACEITE.12"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "C/. MIQUEL SERVET",
+                "centro": "MERCADO BENICALAP",
+                "n_distrito": "16",
+                "n_barrio": "161",
+                "aceite": "1",
+                "codigo": "ME09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39417997,
+                    39.48860592
+                ]
+            },
+            "id": "RES_ACEITE.13"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "PL. ALBORAIG",
+                "centro": "MERCADO BENIMAMET",
+                "n_distrito": "18",
+                "n_barrio": "181",
+                "aceite": "1",
+                "codigo": "ME10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.41797674,
+                    39.49889726
+                ]
+            },
+            "id": "RES_ACEITE.14"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "PL. MERCAT NOU",
+                "centro": "MERCADO DEL GRAO",
+                "n_distrito": "11",
+                "n_barrio": "111",
+                "aceite": "1",
+                "codigo": "ME11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33485474,
+                    39.46126582
+                ]
+            },
+            "id": "RES_ACEITE.15"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "01-MERCADO",
+                "direccion": "C/. JUST VILAR",
+                "centro": "MERCADO DEL CABA�AL",
+                "n_distrito": "11",
+                "n_barrio": "112",
+                "aceite": "1",
+                "codigo": "ME12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33323656,
+                    39.46752948
+                ]
+            },
+            "id": "RES_ACEITE.16"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. CUBA, 63",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"RUZAFA\"",
+                "n_distrito": "2",
+                "n_barrio": "021",
+                "aceite": "1",
+                "codigo": "MA01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37502839,
+                    39.45927561
+                ]
+            },
+            "id": "RES_ACEITE.17"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. HISTORIADOR DIAGO, 6-8",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"ARRANCAPINS\"",
+                "n_distrito": "3",
+                "n_barrio": "034",
+                "aceite": "1",
+                "codigo": "MA02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38378188,
+                    39.46756432
+                ]
+            },
+            "id": "RES_ACEITE.18"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. BURGOS, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"NOU MOLES\"",
+                "n_distrito": "7",
+                "n_barrio": "071",
+                "aceite": "1",
+                "codigo": "MA03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39906318,
+                    39.47011021
+                ]
+            },
+            "id": "RES_ACEITE.19"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. M�SIC AYLL�N, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"MARE DE DEU DEL DESEMPARATS\"",
+                "n_distrito": "7",
+                "n_barrio": "073",
+                "aceite": "1",
+                "codigo": "MA04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39689794,
+                    39.46584366
+                ]
+            },
+            "id": "RES_ACEITE.20"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. MARE DE D�U DE LA FONTSANTA, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"LA FONTSANTA\"",
+                "n_distrito": "7",
+                "n_barrio": "074",
+                "aceite": "1",
+                "codigo": "MA05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4072171,
+                    39.46650167
+                ]
+            },
+            "id": "RES_ACEITE.21"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. SANTIAGO DE L�S, 1",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"LA LLUM\"",
+                "n_distrito": "7",
+                "n_barrio": "075",
+                "aceite": "1",
+                "codigo": "MA06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.41272128,
+                    39.46778742
+                ]
+            },
+            "id": "RES_ACEITE.22"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. SALABERT, 13ac",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"PATRAIX\"",
+                "n_distrito": "8",
+                "n_barrio": "081",
+                "aceite": "1",
+                "codigo": "MA07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39429594,
+                    39.46285527
+                ]
+            },
+            "id": "RES_ACEITE.23"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. JOS� ANDREU ALABARTA, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"SAN ISIDRO\"",
+                "n_distrito": "8",
+                "n_barrio": "082",
+                "aceite": "1",
+                "codigo": "MA09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4050608,
+                    39.45313953
+                ]
+            },
+            "id": "RES_ACEITE.24"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. JUAN DE GARAY, 52",
+                "centro": "CM OCUPACIONAL JUAN DE GARAY",
+                "n_distrito": "8",
+                "n_barrio": "085",
+                "aceite": "1",
+                "codigo": "MA10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39552508,
+                    39.45501364
+                ]
+            },
+            "id": "RES_ACEITE.25"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "AV. GIORGETA, 18",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"GIORGETA-CARMEN GRACIA\"",
+                "n_distrito": "9",
+                "n_barrio": "091",
+                "aceite": "1",
+                "codigo": "MA11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38586156,
+                    39.4603783
+                ]
+            },
+            "id": "RES_ACEITE.26"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. TOM�S DE VILARROYA, 17 Bjo",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"CRUZ CUBIERTA\"",
+                "n_distrito": "9",
+                "n_barrio": "094",
+                "aceite": "1",
+                "codigo": "MA12"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38813709,
+                    39.44755328
+                ]
+            },
+            "id": "RES_ACEITE.27"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. SALVADOR PERLES",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"SAN MARCELINO\"",
+                "n_distrito": "9",
+                "n_barrio": "094",
+                "aceite": "1",
+                "codigo": "MA13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38979623,
+                    39.44271669
+                ]
+            },
+            "id": "RES_ACEITE.28"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. RIU CABRIOL, 2 Bjo.",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"HORNO ALCEDO\"",
+                "n_distrito": "19",
+                "n_barrio": "191",
+                "aceite": "1",
+                "codigo": "MA14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37492593,
+                    39.43268387
+                ]
+            },
+            "id": "RES_ACEITE.29"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. POETESSA LEONOR PERALES, 1",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"CASTELLAR-OLIVERAL\"",
+                "n_distrito": "19",
+                "n_barrio": "192",
+                "aceite": "1",
+                "codigo": "MA15"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36312172,
+                    39.42835499
+                ]
+            },
+            "id": "RES_ACEITE.30"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "TRAV. PINEDO A LA MAR, 33",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"PINEDO\"",
+                "n_distrito": "19",
+                "n_barrio": "193",
+                "aceite": "1",
+                "codigo": "MA16"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33680473,
+                    39.42165775
+                ]
+            },
+            "id": "RES_ACEITE.31"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. BENIDOLEIG, 9",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"LA TORRE\"",
+                "n_distrito": "19",
+                "n_barrio": "197",
+                "aceite": "1",
+                "codigo": "MA17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39317167,
+                    39.43450706
+                ]
+            },
+            "id": "RES_ACEITE.32"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. DRAGAMINES, 11",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"CAMPANAR\"",
+                "n_distrito": "4",
+                "n_barrio": "041",
+                "aceite": "1",
+                "codigo": "MA18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39697313,
+                    39.48116542
+                ]
+            },
+            "id": "RES_ACEITE.33"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. FALUTX, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"TENDETES\"",
+                "n_distrito": "4",
+                "n_barrio": "042",
+                "aceite": "1",
+                "codigo": "MA19"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38675151,
+                    39.48395185
+                ]
+            },
+            "id": "RES_ACEITE.34"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "AV. GENERAL AVIL�S, 19",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"EL CALVARI\"",
+                "n_distrito": "4",
+                "n_barrio": "043",
+                "aceite": "1",
+                "codigo": "MA20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3927994,
+                    39.48700952
+                ]
+            },
+            "id": "RES_ACEITE.35"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "PL. �VILA, 17",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"VIVEROS\"",
+                "n_distrito": "5",
+                "n_barrio": "053",
+                "aceite": "1",
+                "codigo": "MA22"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36983272,
+                    39.48134692
+                ]
+            },
+            "id": "RES_ACEITE.36"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. TRAFALGAR, 34",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"TRAFALGAR\"",
+                "n_distrito": "12",
+                "n_barrio": "123",
+                "aceite": "1",
+                "codigo": "MA24"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34512525,
+                    39.46142791
+                ]
+            },
+            "id": "RES_ACEITE.37"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. IECLA, 12",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"AMISTAD\"",
+                "n_distrito": "13",
+                "n_barrio": "133",
+                "aceite": "1",
+                "codigo": "MA26"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34992732,
+                    39.47268815
+                ]
+            },
+            "id": "RES_ACEITE.38"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "PG. FACULTATS, 8 B",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"SAN JOSE\"",
+                "n_distrito": "13",
+                "n_barrio": "135",
+                "aceite": "1",
+                "codigo": "MA27"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34738203,
+                    39.47767226
+                ]
+            },
+            "id": "RES_ACEITE.39"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. UTIEL, 22",
+                "centro": "UD PENSIONISTAS BENIMACLET",
+                "n_distrito": "14",
+                "n_barrio": "141",
+                "aceite": "1",
+                "codigo": "MA28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35855666,
+                    39.48567974
+                ]
+            },
+            "id": "RES_ACEITE.40"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. SANT JOAN DE LA PENYA, 3",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"ORRIOLS\"",
+                "n_distrito": "15",
+                "n_barrio": "151",
+                "aceite": "1",
+                "codigo": "MA29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37057419,
+                    39.49622843
+                ]
+            },
+            "id": "RES_ACEITE.41"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. EMILI BAR�, 87",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"BENIMACLET\"",
+                "n_distrito": "15",
+                "n_barrio": "153",
+                "aceite": "1",
+                "codigo": "MA30"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35858323,
+                    39.49265107
+                ]
+            },
+            "id": "RES_ACEITE.42"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. ASSAGADOR D'ALBORAIA, 20",
+                "centro": "CM CENTRO DIA MUNICIPAL PARA PERSONAS MAYORES DEPENDIENTES \"LA PURISIMA\"",
+                "n_distrito": "15",
+                "n_barrio": "153",
+                "aceite": "1",
+                "codigo": "MA31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36281947,
+                    39.48943458
+                ]
+            },
+            "id": "RES_ACEITE.43"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. LOUIS BRAILLE, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"BENICALAPECH\"",
+                "n_distrito": "16",
+                "n_barrio": "162",
+                "aceite": "1",
+                "codigo": "MA32"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39558462,
+                    39.49621146
+                ]
+            },
+            "id": "RES_ACEITE.44"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "PL. LUIS CANO, 2ac",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"BENIMAMET\"",
+                "n_distrito": "18",
+                "n_barrio": "181",
+                "aceite": "1",
+                "codigo": "MA33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.41804954,
+                    39.50160404
+                ]
+            },
+            "id": "RES_ACEITE.45"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. FAVANELLA, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"BENIFERRI\"",
+                "n_distrito": "18",
+                "n_barrio": "182",
+                "aceite": "1",
+                "codigo": "MA34"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40716025,
+                    39.4929604
+                ]
+            },
+            "id": "RES_ACEITE.46"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. JUAN RAMON JIM�NEZ, 18",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"MALILLA\"",
+                "n_distrito": "10",
+                "n_barrio": "103",
+                "aceite": "1",
+                "codigo": "MA35"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37644644,
+                    39.45497389
+                ]
+            },
+            "id": "RES_ACEITE.47"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. DOCTOR LLUCH, Fte 75",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"CABANYAL-CANYAMELAR\"",
+                "n_distrito": "11",
+                "n_barrio": "112",
+                "aceite": "1",
+                "codigo": "MA37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.32828488,
+                    39.46677095
+                ]
+            },
+            "id": "RES_ACEITE.48"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "PL. ARAS DE LOS OLMOS, 4",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"NAZARET\"",
+                "n_distrito": "11",
+                "n_barrio": "115",
+                "aceite": "1",
+                "codigo": "MA38"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33333599,
+                    39.44853538
+                ]
+            },
+            "id": "RES_ACEITE.49"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "03-ASOCIACION VECINOS",
+                "direccion": "C.V. XIRIVELLA, 1",
+                "centro": "ASOCIACION DE VECINOS \"ARNICHES\"",
+                "n_distrito": "7",
+                "n_barrio": "072",
+                "aceite": "1",
+                "codigo": "AV01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40841802,
+                    39.4726941
+                ]
+            },
+            "id": "RES_ACEITE.50"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. BENEFIC�NCIA, 20",
+                "centro": "IES BARRIO DEL CARMEN",
+                "n_distrito": "1",
+                "n_barrio": "013",
+                "aceite": "1",
+                "codigo": "ED04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38181769,
+                    39.4796305
+                ]
+            },
+            "id": "RES_ACEITE.51"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. SANT PAU, 4 (punt ubicat en AV. MARQU�S DE SOTELO, 9 )",
+                "centro": "IES LLUIS VIVES",
+                "n_distrito": "1",
+                "n_barrio": "016",
+                "aceite": "1",
+                "codigo": "ED05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37729805,
+                    39.4680853
+                ]
+            },
+            "id": "RES_ACEITE.52"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. SALAMANCA, 45",
+                "centro": "COLEGIO SAGRADO CORAZON",
+                "n_distrito": "2",
+                "n_barrio": "023",
+                "aceite": "1",
+                "codigo": "ED07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36310511,
+                    39.46481307
+                ]
+            },
+            "id": "RES_ACEITE.53"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "G.V. FERRAN EL CAT�LIC, 37",
+                "centro": "COLEGIO JESUS-MARIA",
+                "n_distrito": "3",
+                "n_barrio": "033",
+                "aceite": "1",
+                "codigo": "ED11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38711878,
+                    39.47264012
+                ]
+            },
+            "id": "RES_ACEITE.54"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "AV. CID, 142",
+                "centro": "COLEGIO PUREZA DE MARIA",
+                "n_distrito": "7",
+                "n_barrio": "072",
+                "aceite": "1",
+                "codigo": "ED13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40918314,
+                    39.470238
+                ]
+            },
+            "id": "RES_ACEITE.55"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. BEETHOVEN, S/N",
+                "centro": "CEIP JOSE SOTO MICO",
+                "n_distrito": "9",
+                "n_barrio": "092",
+                "aceite": "1",
+                "codigo": "ED17"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39001512,
+                    39.45021821
+                ]
+            },
+            "id": "RES_ACEITE.56"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. PIUS IX, S/N",
+                "centro": "CEIP PROFESSOR RAMIRO JOVER",
+                "n_distrito": "9",
+                "n_barrio": "095",
+                "aceite": "1",
+                "codigo": "ED18"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39401063,
+                    39.4431686
+                ]
+            },
+            "id": "RES_ACEITE.57"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. CONVENT DELS CARMELITES, 13",
+                "centro": "IES BENLLIURE",
+                "n_distrito": "5",
+                "n_barrio": "053",
+                "aceite": "1",
+                "codigo": "ED20"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36980753,
+                    39.48314039
+                ]
+            },
+            "id": "RES_ACEITE.58"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "PL. JOS� MAR�A ORENSE, 6",
+                "centro": "AVAPACE",
+                "n_distrito": "13",
+                "n_barrio": "132",
+                "aceite": "1",
+                "codigo": "ED28"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34025402,
+                    39.47335316
+                ]
+            },
+            "id": "RES_ACEITE.59"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. S�NECA, 13",
+                "centro": "CEIP L'AMISTAT",
+                "n_distrito": "13",
+                "n_barrio": "133",
+                "aceite": "1",
+                "codigo": "ED29"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35035214,
+                    39.47217873
+                ]
+            },
+            "id": "RES_ACEITE.60"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. ALBALAT DELS TARONGERS, S/N",
+                "centro": "SERVICIO EDUCACION FISICA",
+                "n_distrito": "13",
+                "n_barrio": "135",
+                "aceite": "1",
+                "codigo": "ED31"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34012439,
+                    39.47657525
+                ]
+            },
+            "id": "RES_ACEITE.61"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. ARQUITECTE ARNAU, S/N",
+                "centro": "COLEGIO PUBLICO MUNICIPAL BENIMACLET",
+                "n_distrito": "14",
+                "n_barrio": "142",
+                "aceite": "1",
+                "codigo": "ED33"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35596718,
+                    39.48687042
+                ]
+            },
+            "id": "RES_ACEITE.62"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. ESTEVE DOLZ DEL CASTELLAR, S/N",
+                "centro": "CEIP MIGUEL HERNANDEZ",
+                "n_distrito": "15",
+                "n_barrio": "153",
+                "aceite": "1",
+                "codigo": "ED37"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36698488,
+                    39.49454132
+                ]
+            },
+            "id": "RES_ACEITE.63"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. MOSS�N PALANCA, 27",
+                "centro": "CEIP LA FONTETA",
+                "n_distrito": "10",
+                "n_barrio": "104",
+                "aceite": "1",
+                "codigo": "ED40"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36552132,
+                    39.44452203
+                ]
+            },
+            "id": "RES_ACEITE.64"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. RICARDO MU�OZ SUAY (CINEASTA), S/N",
+                "centro": "EI 1er CICLE MUNICIPAL GENERAL URRUTIA",
+                "n_distrito": "10",
+                "n_barrio": "107",
+                "aceite": "1",
+                "codigo": "ED42"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35883946,
+                    39.45254521
+                ]
+            },
+            "id": "RES_ACEITE.65"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. JOSEP AGUIRRE, 33",
+                "centro": "COLEGIO LA PURISIMA-GRAO",
+                "n_distrito": "11",
+                "n_barrio": "111",
+                "aceite": "1",
+                "codigo": "ED43"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33402924,
+                    39.46183478
+                ]
+            },
+            "id": "RES_ACEITE.66"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "05-CENTROS JUVENILES",
+                "direccion": "C/. VALL DE LA BALLESTERA, 66",
+                "centro": "CM JUVENTUD CAMPANAR",
+                "n_distrito": "4",
+                "n_barrio": "044",
+                "aceite": "1",
+                "codigo": "JU01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40614988,
+                    39.4789167
+                ]
+            },
+            "id": "RES_ACEITE.67"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "05-CENTROS JUVENILES",
+                "direccion": "C/. AST�RIES, Jto 22",
+                "centro": "POLIDEPORTIVO ASTURIAS",
+                "n_distrito": "12",
+                "n_barrio": "125",
+                "aceite": "1",
+                "codigo": "JU03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35588279,
+                    39.46503254
+                ]
+            },
+            "id": "RES_ACEITE.68"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "05-CENTROS JUVENILES",
+                "direccion": "C/. CAMPOAMOR, 91",
+                "centro": "CM JUVENTUD ALGIROS",
+                "n_distrito": "13",
+                "n_barrio": "131",
+                "aceite": "1",
+                "codigo": "JU04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34035681,
+                    39.46925043
+                ]
+            },
+            "id": "RES_ACEITE.69"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "05-CENTROS JUVENILES",
+                "direccion": "C/. DANIEL BALACIART, 8",
+                "centro": "POLIDEPORTIVO BENIMACLET",
+                "n_distrito": "14",
+                "n_barrio": "141",
+                "aceite": "1",
+                "codigo": "JU06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35478855,
+                    39.48093887
+                ]
+            },
+            "id": "RES_ACEITE.70"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "06-ECOPARQUE",
+                "direccion": "CAMI. ALQUERIA DE LA MORERA, S/N",
+                "centro": "ECOPARQUE FIJO VARA DE QUART",
+                "n_distrito": "8",
+                "n_barrio": "083",
+                "aceite": "1",
+                "codigo": "EC00"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40894302,
+                    39.45496477
+                ]
+            },
+            "id": "RES_ACEITE.71"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "C/. GUADALQUIVIR, 15",
+                "centro": "ALCALDIA DE BARRIO FORN D'ALCEDO",
+                "n_distrito": "19",
+                "n_barrio": "191",
+                "aceite": "1",
+                "codigo": "AB01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37613391,
+                    39.43259613
+                ]
+            },
+            "id": "RES_ACEITE.72"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "CTRA. RIU, 263",
+                "centro": "ALCALDIA DE PINEDO",
+                "n_distrito": "19",
+                "n_barrio": "193",
+                "aceite": "1",
+                "codigo": "AB02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34080648,
+                    39.42436044
+                ]
+            },
+            "id": "RES_ACEITE.73"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "AV. PINARS, 1",
+                "centro": "ALCALDIA EL SALER",
+                "n_distrito": "19",
+                "n_barrio": "194",
+                "aceite": "1",
+                "codigo": "AB03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33186961,
+                    39.38229962
+                ]
+            },
+            "id": "RES_ACEITE.74"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "C/. CAUDETE, 15",
+                "centro": "ALCALDIA EL PALMAR",
+                "n_distrito": "19",
+                "n_barrio": "195",
+                "aceite": "1",
+                "codigo": "AB04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.31765337,
+                    39.3093852
+                ]
+            },
+            "id": "RES_ACEITE.75"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "AV. GAVINES, S/N",
+                "centro": "ALCALDIA EL PERELLONET",
+                "n_distrito": "19",
+                "n_barrio": "196",
+                "aceite": "1",
+                "codigo": "AB05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.28883834,
+                    39.29791368
+                ]
+            },
+            "id": "RES_ACEITE.76"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "C/. FERRER I BIGN�, 47",
+                "centro": "PEDANIA BENIFARAIG",
+                "n_distrito": "17",
+                "n_barrio": "171",
+                "aceite": "1",
+                "codigo": "AB06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38577961,
+                    39.52886714
+                ]
+            },
+            "id": "RES_ACEITE.77"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "CAMI. MONCADA, 205",
+                "centro": "PEDANIA POBLE NOU",
+                "n_distrito": "17",
+                "n_barrio": "172",
+                "aceite": "1",
+                "codigo": "AB07"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.38403493,
+                    39.50424586
+                ]
+            },
+            "id": "RES_ACEITE.78"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "PL. VICENTE GIL ROS (MEDALLISTA PARALIMPIC), 1",
+                "centro": "PEDANIA CARPESA",
+                "n_distrito": "17",
+                "n_barrio": "173",
+                "aceite": "1",
+                "codigo": "AB08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37961107,
+                    39.51683854
+                ]
+            },
+            "id": "RES_ACEITE.79"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "CAMI. CASES DE B�RCENA,108",
+                "centro": "PEDANIA CASAS DE BARCENA",
+                "n_distrito": "17",
+                "n_barrio": "174",
+                "aceite": "1",
+                "codigo": "AB09"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35656108,
+                    39.52326006
+                ]
+            },
+            "id": "RES_ACEITE.80"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "C/. MOSS�N BAU, 12 B",
+                "centro": "PEDANIA MASSARROJOS",
+                "n_distrito": "17",
+                "n_barrio": "176",
+                "aceite": "1",
+                "codigo": "AB10"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.40391482,
+                    39.53956307
+                ]
+            },
+            "id": "RES_ACEITE.81"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "00-DEPENDENCIAS MUNICIPALES",
+                "direccion": "AV. JES�S MORANTE BORR�S, 176",
+                "centro": "CONSULTORIO AUXILIAR BARRI LA PUNTA",
+                "n_distrito": "10",
+                "n_barrio": "106",
+                "aceite": "1",
+                "codigo": "DM14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34391833,
+                    39.44256055
+                ]
+            },
+            "id": "RES_ACEITE.82"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "08-VARIOS",
+                "direccion": "Jardins del T�ria - entre PG. PETXINA i AV. MANUEL DE FALLA",
+                "centro": "NATURIA  -CENTRO DE MEDIO AMBIENTE URBANO DEL AYTO.VALENCIA",
+                "n_distrito": "4",
+                "n_barrio": "041",
+                "aceite": "1",
+                "codigo": "VA01"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39774213,
+                    39.47524532
+                ]
+            },
+            "id": "RES_ACEITE.83"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "08-VARIOS",
+                "direccion": "C/. ANTONI SU�REZ, 7",
+                "centro": "ORGANISMO AUTONOMO MUNICIPAL PARQUES Y JARDINES",
+                "n_distrito": "6",
+                "n_barrio": "062",
+                "aceite": "1",
+                "codigo": "VA02"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35791923,
+                    39.46864248
+                ]
+            },
+            "id": "RES_ACEITE.84"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "09-UNIVERSIDAD POPULAR",
+                "direccion": "PL. RONCESVALLS, 8",
+                "centro": "UP MORVEDRE",
+                "n_distrito": "5",
+                "n_barrio": "054",
+                "aceite": "1",
+                "codigo": "UP06"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.37866891,
+                    39.48751033
+                ]
+            },
+            "id": "RES_ACEITE.85"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "09-UNIVERSIDAD POPULAR",
+                "direccion": "C/. M�SIC GIN�S, 21",
+                "centro": "UP ALGIROS",
+                "n_distrito": "13",
+                "n_barrio": "132",
+                "aceite": "1",
+                "codigo": "UP08"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.34332101,
+                    39.47065248
+                ]
+            },
+            "id": "RES_ACEITE.86"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "09-UNIVERSIDAD POPULAR",
+                "direccion": "AV. MALVA-ROSA, 98",
+                "centro": "UP MALVARROSA",
+                "n_distrito": "11",
+                "n_barrio": "113",
+                "aceite": "1",
+                "codigo": "UP13"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.3279339,
+                    39.48127636
+                ]
+            },
+            "id": "RES_ACEITE.87"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. VICENT MAROTO, 1",
+                "centro": "CEIP DOCTOR LOPEZ ROSAT",
+                "n_distrito": "7",
+                "n_barrio": "073",
+                "aceite": "1",
+                "codigo": "ED14"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39594913,
+                    39.46484649
+                ]
+            },
+            "id": "RES_ACEITE.88"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "03-ASOCIACION VECINOS",
+                "direccion": "PL. PATRAIX, 13",
+                "centro": "ASOCIACION DE VECINOS \"PATRAIX\"",
+                "n_distrito": "8",
+                "n_barrio": "081",
+                "aceite": "1",
+                "codigo": "AV04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39243255,
+                    39.46319466
+                ]
+            },
+            "id": "RES_ACEITE.89"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "AV. CORTS VALENCIANES 1",
+                "centro": "ESCUELAS SAN JOS�-JESUITAS",
+                "n_distrito": "4",
+                "n_barrio": "041",
+                "aceite": "1",
+                "codigo": "ED49"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39746879,
+                    39.48688083
+                ]
+            },
+            "id": "RES_ACEITE.90"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "04-CENTRO EDUCATIVO",
+                "direccion": "C/. CIUTAT DE L'APRENENT, 4",
+                "centro": "CIFP CIUDAD DEL APRENDIZ",
+                "n_distrito": "9",
+                "n_barrio": "095",
+                "aceite": "1",
+                "codigo": "ED50"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39055474,
+                    39.44013912
+                ]
+            },
+            "id": "RES_ACEITE.91"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "09-UNIVERSIDAD POPULAR",
+                "direccion": "C/. JOS� ANDREU ALABARTA, 25",
+                "centro": "UP SAN ISIDRO",
+                "n_distrito": "8",
+                "n_barrio": "082",
+                "aceite": "1",
+                "codigo": "UP04"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.4042045,
+                    39.45333685
+                ]
+            },
+            "id": "RES_ACEITE.92"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "07-ALCALDIA DE BARRIO",
+                "direccion": "C/. ALBERTO GARC�A ESTEVE (ADVOCAT), SN",
+                "centro": "ALCALDIA DE LA PUNTA",
+                "n_distrito": "10",
+                "n_barrio": "106",
+                "aceite": "1",
+                "codigo": "AB11"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.33535949,
+                    39.44308499
+                ]
+            },
+            "id": "RES_ACEITE.93"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "09-UNIVERSIDAD POPULAR",
+                "direccion": "C/. TORRES, 12",
+                "centro": "UP NOU MOLES-OLIVERETA",
+                "n_distrito": "7",
+                "n_barrio": "071",
+                "aceite": "1",
+                "codigo": "UP03"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.39901676,
+                    39.47341886
+                ]
+            },
+            "id": "RES_ACEITE.94"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "03-ASOCIACION VECINOS",
+                "direccion": "CTRA FONT D'EN CORTS, 105",
+                "centro": "ASOCIACION DE VECINOS FONT D'EN CORTS",
+                "n_distrito": "10",
+                "n_barrio": "106",
+                "aceite": "1",
+                "codigo": "AV05"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.35822177,
+                    39.4456798
+                ]
+            },
+            "id": "RES_ACEITE.95"
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "tipo": "02-CM_PERSONAS MAYORES",
+                "direccion": "C/. SEVERIANO GOIG, S/N",
+                "centro": "CM ACTIVIDADES PERSONAS MAYORES \"FUENTE DE SAN LUIS\"",
+                "n_distrito": "10",
+                "n_barrio": "105",
+                "aceite": "1",
+                "codigo": "MA36"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    -0.36340206,
+                    39.45473451
+                ]
+            },
+            "id": "RES_ACEITE.96"
+        }
+    ]
+}
