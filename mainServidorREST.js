@@ -1,7 +1,7 @@
 // .....................................................................
 // Autor: Santiago Pérez
 // Fecha inicio: 07/12/2019
-// Última actualización: 07/12/2019
+// Última actualización: 07/09/2020
 // mainServidorREST.js
 // .....................................................................
 
@@ -9,7 +9,7 @@
 // .....................................................................
 const express = require( 'express' )
 const bodyParser = require( 'body-parser' )
-const Logica = require( "../logica/Logica.js" )
+const Logica = require( "./logica/Logica.js" )
 const cors = require('cors');
 
 // .....................................................................
@@ -32,7 +32,7 @@ function cargarLogica( fichero ) {
 // .....................................................................
 async function main() {
 
-  var laLogica = await cargarLogica( "../bd/datos.db" );
+  var laLogica = await cargarLogica( "./bd/datos.db" );
 
   // creo el servidor
   var servidorExpress = express();
