@@ -1,7 +1,7 @@
 // .....................................................................
 // Autor: Santiago Pérez
 // Fecha inicio: 07/12/2019
-// Última actualización: 07/09/2020
+// Ultima actualización: 07/09/2020
 // mainServidorREST.js
 // .....................................................................
 
@@ -9,7 +9,7 @@
 // .....................................................................
 const express = require( 'express' )
 const bodyParser = require( 'body-parser' )
-const Logica = require( "./logica/logica.js" )
+const Logica = require( "./logica.js" )
 const cors = require('cors');
 const port = process.env.PORT || 8080;
 
