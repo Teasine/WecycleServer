@@ -9,7 +9,7 @@
 // .....................................................................
 const express = require( 'express' )
 const bodyParser = require( 'body-parser' )
-const Logica = require( "./logica/Logica.js" )
+const Logica = require( "./logica/logica.js" )
 const cors = require('cors');
 
 // .....................................................................
