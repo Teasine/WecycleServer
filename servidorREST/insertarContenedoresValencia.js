@@ -20,7 +20,7 @@ const fs = require('fs')
         return console.error(err.message);
     }
     console.log('Conectado a datos.db ');
-});*/
+});
 
 //Leer el archivo json
 fs.readFile('jsonContenedores/v2/valencia.json', (err, data) => {
