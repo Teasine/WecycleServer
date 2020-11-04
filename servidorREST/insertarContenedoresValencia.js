@@ -21,9 +21,9 @@ const fs = require('fs')
     }
     console.log('Conectado a datos.db ');
 });
-*/
+
 //Leer el archivo json
-fs.readFile('jsonContenedores/valencia.json', (err, data) => {
+fs.readFile('jsonContenedores/v2/valencia.json', (err, data) => {
     if (err) throw err;
     let datos = JSON.parse(data)
     //Tipo de contenedor
@@ -65,7 +65,7 @@ fs.readFile('jsonContenedores/valencia.json', (err, data) => {
         var ciudad = "Valencia";
         var horario = null;
 
-        var textoSQL = 'insert into Contenedores values( $Id, $IdTipoContenedor, $Ciudad, $Latitud, $Longitud, $Horario);'
+        var textoSQL = 'insert into ContenedoresValencia values( $Id, $IdTipoContenedor, $Ciudad, $Latitud, $Longitud, $Horario);'
         var valoresParaSQL = {
             $Id: null,
             $IdTipoContenedor: idTipo,
@@ -74,14 +74,14 @@ fs.readFile('jsonContenedores/valencia.json', (err, data) => {
             $Longitud: longitud,
             $Horario: horario,
         }
-        db.run(textoSQL, valoresParaSQL);
+        //db.run(textoSQL, valoresParaSQL);
     });
 
     // cerra la conexión con la base de datos
-    db.close((err) => {
+    /*db.close((err) => {
         if (err) {
             return console.error(err.message);
         }
         console.log('Cerrando la conexión a la bd');
-    });
+    });*/
 });
